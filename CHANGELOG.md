@@ -2,6 +2,7 @@
 
 ## 0.7.0 (upcoming)
 
+* Theme of breadcrumbs
 * Theme of info-card
 * Theme of input
 * Theme of tab-box
@@ -9,6 +10,7 @@
 * Theme of tooltip
 * Theme of vertical-tabs
 * Theme of search
+
 
 ## 0.6.0 (April 17, 2017)
 
